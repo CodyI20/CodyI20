@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodyI20
+- 👋 Hi, I’m Cody
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming for creative media
 - 💞️ I’m looking to collaborate on projects that involve programming (both from the creative media and other areas)
