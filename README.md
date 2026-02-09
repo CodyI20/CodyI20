@@ -17,7 +17,7 @@ I’m passionate about programming of all kinds, with my main languages being:
 <br/>
 
 ### Engines
-I've worked in a few engines, doing anything from software architecture to frontend development, feature portability, and shader programming. Most notably:
+I've worked in a few engines, doing anything from backend software architecture to frontend development, feature portability, and shader programming. Most notably:
 
 <a href="https://unity.com/">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
