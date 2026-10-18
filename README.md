@@ -1,6 +1,6 @@
 # Hi, I’m Cody! <img width="30" height="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand">
 
-I am currently studying Game Development as a 4th and final year student at **Saxion University of Applied Sciences** in Enschede.
+I am a Junior Software Engineer, alumni of Creative Media and Game Technologies at **Saxion University of Applied Sciences** in Enschede.
 
 <img width="200" height="200" align="right" alt="Cody's Avatar" src="https://github.com/user-attachments/assets/6ae33210-9ed9-4952-8217-195891d9b38d" />
 
